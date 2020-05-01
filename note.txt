@@ -1,0 +1,15 @@
+Pasal 19 ayet 3 :
+Mahasiswa berstatus lulus apabila :
+1. mata kuliah pengembangan kepribadian (MPK) mendapat nilai minimal C
+2. mata kuliah kompetensi utama mendapatkan nilai minimal C
+3. indeks Prestasi (I.P) ≥ 2,00 dengan nilai D maksimal 2 mata kuliah dan atau tanpa nilai E
+
+Mahasiswa berstatus tidak lulus (drop out) apabila :
+1. memperoleh IP < 2.00 dan/atau.
+2. memperoleh nilai akhir D untuk mata kuliah pengembangan kepribadian.
+3. memperoleh nilai akhir D untuk mata kuliah kompetensi utama dan atau.
+4. memperoleh mata kuliah dengan nilai akhir E dan atau nilai D lebih dari 2 mata kuliah. 
+
+ Pasal 33 absensi :
+1. Batas maksimum ketidakhadiran mahasiswa, baik yang diizinkan maupun yang tidak diizinkan, adalah 114 jam perkuliahan dalam satu semester.
+2. Sanksi akademis sebagaimana dimaksud dalam Ayat (1) pada semester 1 dan 2 berupa pemberhentian studi (drop out).
